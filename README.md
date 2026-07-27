@@ -10,12 +10,12 @@ Python・Djangoを使った開発を経験しています。
 
 ---
 
-## 💻 習得済み
+## Skills
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,django" />
 </p>
 
-## 📚 学習中
+## Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,mysql" />
 </p>
