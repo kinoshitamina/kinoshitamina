@@ -1,4 +1,4 @@
-# Kinoshita Mina 👋
+# Hello 👋
 
 ## Skills
 <p>
