@@ -1,11 +1,11 @@
-# Hi there 👋
+# Kinoshita Mina 👋
 
-## 💻 Skills
+## Skills
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,django" />
 </p>
 
-## 📚 Currently Learning
+## Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,mysql" />
 </p>
