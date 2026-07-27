@@ -17,7 +17,7 @@ Python・Djangoを使った開発を経験しています。
 
 ## Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,mysql,github" />
 </p>
 
 ## 🎯 目標
